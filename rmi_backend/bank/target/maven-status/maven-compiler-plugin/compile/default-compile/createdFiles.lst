@@ -1,0 +1,12 @@
+estm\dsic\jee\business\ImplUserService.class
+estm\dsic\jee\business\IUserServices.class
+estm\dsic\jee\dal\AccountDAO.class
+estm\dsic\jee\Models\Historique.class
+estm\dsic\jee\Models\User.class
+estm\dsic\jee\dal\DatabaseConnector.class
+estm\dsic\jee\dal\UserDAO.class
+estm\dsic\jee\business\IAuthentication.class
+estm\dsic\jee\dal\HistoriqueDAO.class
+estm\dsic\jee\Main.class
+estm\dsic\jee\Models\Account.class
+estm\dsic\jee\business\Authentication.class
